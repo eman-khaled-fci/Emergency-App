@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emergency</string>
+    <string name="emergency">Emergency</string>
+    <string name="fire">Fire</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="police">Police</string>
+    <string name="consumer_protection">Consumer Protection</string>
+    <string name="child_rescue">Child
+        Rescue</string>
+</resources>
